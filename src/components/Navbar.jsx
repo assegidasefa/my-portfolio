@@ -1,10 +1,9 @@
 import React, { useState } from "react";
 
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
-import { HiOutlineMail } from "react-icons/hi";
 import { AiFillFacebook } from "react-icons/ai";
-import { FiFacebook, FiTwitter } from "react-icons/fi";
-import { BsFillPersonLinesFill, BsInstagram } from "react-icons/bs";
+import { FiTwitter } from "react-icons/fi";
+import { BsInstagram } from "react-icons/bs";
 import Logo from "../assets/tagicho_imag.png";
 import { Link } from "react-scroll";
 import { motion } from "framer-motion";
